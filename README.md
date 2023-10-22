@@ -8,4 +8,6 @@
 ## Content
 ChatGPT 预设在./modules/chatchat.py 第59行
 
+Ariadne教程可以看这个可爱版文档https://graiax.cn/  也可以看官方文档
+
 更多教程更新中
