@@ -106,7 +106,7 @@ def process_image(result):
     return ' '.join(one['text'] for one in out)
 
 
-openai_key = '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'
+openai_key = 'xxx' 
 openai.api_key = openai_key
 
 
