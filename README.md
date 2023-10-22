@@ -7,3 +7,5 @@
 
 ## Content
 ChatGPT 预设在./module/chatchat.py 第59行
+
+更多教程更新中
