@@ -5,6 +5,16 @@
 > 身体只是灵魂暂时安放的地方。无论是任何形式的身体，只要有灵魂，我们就能重生！
 
 
+## Preparation
+
+1. Mirai
+2. Ariadne
+
+Ariadne教程可以看这个可爱版文档https://graiax.cn/  也可以看官方文档
+
+更多教程更新中
+   
+
 ## Content
 
 已实现功能 （在modules文件夹里）：
@@ -17,6 +27,4 @@
 
 ChatGPT 预设在./modules/chatchat.py 第59行
 
-Ariadne教程可以看这个可爱版文档https://graiax.cn/  也可以看官方文档
 
-更多教程更新中
