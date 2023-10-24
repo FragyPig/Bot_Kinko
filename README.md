@@ -6,6 +6,15 @@
 
 
 ## Content
+
+已实现功能：
+
+1. chatchat: ChatGPT回复
+2. auto_reply: 自动触发关键词回复
+3. guild_welcome: 公会审核问答，根据新加群的人的回复，为其推荐一个公会。最复杂的功能，但原理也很简单。
+
+
+
 ChatGPT 预设在./modules/chatchat.py 第59行
 
 Ariadne教程可以看这个可爱版文档https://graiax.cn/  也可以看官方文档
