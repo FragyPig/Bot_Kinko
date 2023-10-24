@@ -7,11 +7,11 @@
 
 ## Content
 
-已实现功能：
+已实现功能 （在modules文件夹里）：
 
-1. chatchat: ChatGPT回复
-2. auto_reply: 自动触发关键词回复
-3. guild_welcome: 公会审核问答，根据新加群的人的回复，为其推荐一个公会。最复杂的功能，但原理也很简单。
+1. **chatchat**: ChatGPT回复
+2. **auto_reply**: 自动触发关键词回复
+3. **guild_welcome**: 公会审核问答，根据新加群的人的回复，为其推荐一个公会。最复杂的功能，但原理也很简单。
 
 
 
