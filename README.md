@@ -5,7 +5,8 @@
 > 身体只是灵魂暂时安放的地方。无论是任何形式的身体，只要有灵魂，我们就能重生！
 
 
-Update (07/01/2025): 似乎Mirai无法继续使用了，时代的落幕。目前正在尝试napcat+overflow
+## Update
+(07/01/2025): 似乎Mirai无法继续使用了，时代的落幕。目前正在尝试napcat+overflow
 
 
 ## Preparation
